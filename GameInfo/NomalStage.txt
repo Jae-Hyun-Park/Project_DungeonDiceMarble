@@ -1,0 +1,8 @@
+Skull 0 20 15 5 10
+Mermaid 1 30 20 10 50
+Skull 0 20 15 5 10
+Angel 2 25 30 5 100
+ShortSword 0 5 0
+LongSword 0 10 0
+IronArmor 1 5 10
+BastardSword 0 15 0

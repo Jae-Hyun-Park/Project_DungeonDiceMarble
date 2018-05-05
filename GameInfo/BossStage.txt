@@ -1,0 +1,8 @@
+Mermaid 1 30 20 10 50
+Angel 2 25 30 5 100
+Mermaid 1 30 20 10 50
+GaruKasa 3 65 50 20 200
+ShortSword 0 5 0
+mithrilArmor 1 10 15
+IronArmor 1 5 10
+mithrilSword 0 20 0

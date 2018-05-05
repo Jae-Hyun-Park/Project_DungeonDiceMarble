@@ -1,0 +1,1 @@
+adventurer 50 20 10
